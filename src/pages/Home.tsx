@@ -112,7 +112,7 @@ const Home: React.FC = () => {
           </div>
           <div className="body">
             <div className="link">
-              @baishatun
+              <a href="https://lin.ee/S9vYAom" target="_blank">@baishatun</a>
             </div>
             <div className="qr-code">
               <img src={qrcodeUrl} alt="" />

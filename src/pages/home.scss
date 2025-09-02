@@ -141,6 +141,11 @@
       border-radius: 90px;
       width: 300px;
       background: $text-primary;
+      a{
+        color: $text-white;
+        text-underline: none;
+        text-decoration: none;
+      }
     }
     .qr-code{
       margin-top: 50px;
